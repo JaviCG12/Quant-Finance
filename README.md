@@ -9,8 +9,7 @@ Welcome to my quantitative finance portfolio. Leveraging my comprehensive backgr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/javiercorderogil/)
 
-[![Linkedin]([https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png])]([link-a-tu-perfil](https://www.linkedin.com/in/javiercorderogil/)) 
-[![Email]([link-a-imagen-de-email](https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png))](mailto:javier.javier.cordero4@gmail.com)
+[![Email](https://img.shields.io/badge/gmail-Perfil-red?logo=gmail)](mailto:javier.javier.cordero4@gmail.com)
 
 **Status:** Open to new Quantitative Analyst and Data Science opportunities.
 
