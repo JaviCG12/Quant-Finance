@@ -3,6 +3,12 @@ Welcome to my quantitative finance portfolio. Leveraging my comprehensive backgr
 
 ***
 
+## Proyects
+  # Proyect 1: Pricing European Options with Monte Carlo
+  Black–Scholes vs Monte Carlo + Variance Reduction
+
+***
+
 ## 📧 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/javiercorderogil/)
