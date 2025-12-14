@@ -5,7 +5,7 @@ Welcome to my quantitative finance portfolio. Leveraging my comprehensive backgr
 
 # 📂 Proyects
   ## Proyect 1: Pricing European Options with Monte Carlo
-  - [Pricing European Options with Monte Carlo](Projects/PricingEuropeanOptionswithMonteCarlo)
+  - [Pricing European Options with Monte Carlo](Projects/Pricing European Options with Monte Carlo)
     Black–Scholes vs Monte Carlo + Variance Reduction
 
 
